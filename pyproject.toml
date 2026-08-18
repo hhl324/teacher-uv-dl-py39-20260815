@@ -1,0 +1,8 @@
+[project]
+name = "teacher-uv-dl-py39-20260815"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.9"
+dependencies = [
+    "ipykernel>=6.31.0",
+]
